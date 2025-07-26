@@ -1,0 +1,17 @@
+torch
+ultralytics
+numpy
+raft
+scipy
+opencv-python
+pandas
+torchvision
+pillow
+torchreid
+gdown
+tensorboard
+deep_sort_realtime
+numpy 
+setuptools 
+wheel
+cython
