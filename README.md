@@ -53,8 +53,8 @@ cython
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/s0n1c07/FootballplayerID_tracker
+cd FootballplayerID_tracker
 ```
 
 2. **Create a virtual environment**
